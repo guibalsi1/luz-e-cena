@@ -1,0 +1,24 @@
+.banner {
+  width: 100%;
+  margin-bottom: -7px;
+  position: absolute;
+}
+
+.overlay {
+  position: relative;
+  display: flex;
+}
+
+.title {
+  font-family: var(--fonte-titulo);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  color: var(--branco);
+  margin-bottom: 200px;
+  margin-left: var(--margin-xl);
+  padding: var(--padding-l);
+}
+
+.em {
+  color: var(--azul);
+}
