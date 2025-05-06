@@ -1,0 +1,84 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "src": "Images/Cards films/Card - Amigo da sombra.png",
+            "alt": "Imagem do filme Amanhecer",
+            "title": "Amanhecer",
+            "category": "2D",
+            "age": "Livre",
+            "genres": "Romance",
+            "duration": 90
+        },
+        {
+            "id": 2,
+            "src": "Images/Cards films/Card - Amigo da sombra.png",
+            "alt": "Imagem do filme Amigo da sombra",
+            "title": "Amigo da sombra",
+            "category": "2D",
+            "age": "12 anos",
+            "genres": "Suspense",
+            "duration": 110
+        },
+        {
+            "id": 3,
+            "src": "Images/Cards films/Card - Amigos do bosque mágico.png",
+            "alt": "Imagem do filme Amigo do bosque mágico",
+            "title": "Amigo do bosque mágico",
+            "category": "2D",
+            "age": "Livre",
+            "genres": "Animação",
+            "duration": 60
+        },
+        {
+            "id": 4,
+            "src": "Images/Cards films/Card - Caminho para o abismo.png",
+            "alt": "Imagem do filme Caminho para o abismo",
+            "title": "Caminho para o abismo",
+            "category": "2D",
+            "age": "14 anos",
+            "genres": "Horror",
+            "duration": 103
+        },
+        {
+            "id": 5,
+            "src": "Images/Cards films/Card - Desastres do Escritório.png",
+            "alt": "Imagem do filme Desastres do Escritório",
+            "title": "Desastres do Escritório",
+            "category": "2D",
+            "age": "Livre",
+            "genres": "Comédia",
+            "duration": 85
+        },
+        {
+            "id": 6,
+            "src": "Images/Cards films/Card - Mestres do futuro.png",
+            "alt": "Imagem do filme Mestres do Futuro",
+            "title": "Mestres do Futuro",
+            "category": "2D",
+            "age": "Livre",
+            "genres": "Documentário",
+            "duration": 120
+        },
+        {
+            "id": 7,
+            "src": "Images/Cards films/Card - La Esperanza.png",
+            "alt": "Imagem do filme La Esperanza",
+            "title": "La Esperanza",
+            "category": "2D",
+            "age": "12 anos",
+            "genres": "Drama",
+            "duration": 98
+        },
+        {
+            "id": 8,
+            "src": "Images/Cards films/Card - O nexus do tempo.png",
+            "alt": "Imagem do filme O nexus do tempo",
+            "title": "O nexus do tempo",
+            "category": "3D",
+            "age": "10 anos",
+            "genres": "Ficcção Científica",
+            "duration": 105
+        }
+    ]
+}
